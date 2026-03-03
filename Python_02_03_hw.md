@@ -76,8 +76,8 @@ for _ in range(n):
 print(res)
 ```
 Пример ввода: 
-5 
 ```
+5 
 15 
 749 
 222 
@@ -133,8 +133,8 @@ for i in range(n):
     print(s, m, sep=' ')
 ```
 Пример: 
-5 
 ```
+5 
 1 5 
 2 4 
 3 3 
@@ -170,3 +170,4 @@ for i in range(n):
 print(s, sep=' ')
 
 ```
+
